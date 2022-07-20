@@ -21,9 +21,17 @@ Once your current version is committed, it's time to open a pull request. This c
 3. They will then attempt to merge your feature into the `main` branch in hopes that it works flawlessly.
 
 
-## Pretend NEL script:
+## Pretend NEL script (Type your edits down here):
 
-1. Startup
+Features: 
+
+1. `Startup` - Starts NEL
+2. `ABR` - runs ABR protocol
+3. `dpOAE` - runs our dpOAE script
+4. `orderPizza` - orders Pizza during a long AN experiment [someone should remove this at some point to make sure its handled properly]
+5. `Shutdown` - Shuts NEL off, saves current state
+
+
 
 
 
