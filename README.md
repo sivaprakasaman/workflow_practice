@@ -31,6 +31,8 @@ Features:
 4. `orderPizza` - orders Pizza during a long AN experiment [someone should remove this at some point to make sure its handled properly]
 5. `Shutdown` - Shuts NEL off, saves current state
 
+7. `SFOAE` - Runs the most beautiful script for important data collection
+
 
 
 
