@@ -33,6 +33,8 @@ Features:
 6. `ChinSOS` - calls for help 
 7. `Shutdown` - Shuts NEL off, saves current state
 
+7. `SFOAE` - Runs the most beautiful script for important data collection
+
 
 
 
