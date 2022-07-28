@@ -28,7 +28,7 @@ Features:
 1. `Startup` - Starts NEL
 2. `ABR` - runs ABR protocol
 3. `dpOAE` - runs our dpOAE script
-4. `orderPizza` - orders Pizza during a long AN experiment [someone should remove this at some point to make sure its handled properly]
+4. `orderPizza` - orders Pizza during a long AN experiment [someone should remove this at some point to make sure its handled properly :)]
 5. `Binding` - runs binding protocol
 6. `ChinSOS` - calls for help 
 7. `STMpilot` - pilot data for R01 using spectro-temporal modulation (STM) stimuli 
