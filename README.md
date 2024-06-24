@@ -20,7 +20,6 @@ Once your current version is committed, it's time to open a pull request. This c
 2. MH + 1 other lab member will discuss and approve your pull request, if appropriate. 
 3. They will then attempt to merge your feature into the `main` branch in hopes that it works flawlessly.
 
-
 ## Pretend NEL script (Type your edits down here):
 
 Features: 
@@ -33,6 +32,5 @@ Features:
 6. `ChinSOS` - calls for help 
 7. `STMpilot` - pilot data for R01 using spectro-temporal modulation (STM) stimuli 
 8. `SFOAE` - Runs the most beautiful script for important data collection
-9. `Shutdown` - Shuts NEL off, saves current state
-
-
+9. `anesthesiaMonitor` - Replaces the role of chinchilla anesthesiologist
+10. `Shutdown` - Shuts NEL off, saves current state
